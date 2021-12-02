@@ -8,7 +8,8 @@ I'm a Master of Business Analytics Student at Monash University, Melbourne.
 
 
 - 🔭 I enjoy working on Exploratory Data Analysis and building R Shiny web applications
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aarathybabu/)
+- 📫 You can reach me via <a href="https://www.linkedin.com/in/aarathybabu/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am an Electrical and Electronics Engineer as well !
+- - Check out my Blog: [https://aarathybabu.netlify.app/](https://aarathybabu.netlify.app/)
 
