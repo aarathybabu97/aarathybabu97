@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visitor](https://visitor-badge.glitch.me/badge?page_id=aarathybabu97.visitor-badge)](https://github.com/aarathybabu97) 
+[![Visitor](https://visitor-badge.glitch.me/badge?page_id=aarathybabu97.visitor-badge)](https://github.com/aarathybabu97) [![GitHub followers](https://img.shields.io/github/followersaarathybabu97.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aarathybabu97?tab=followers)
 
 
 
