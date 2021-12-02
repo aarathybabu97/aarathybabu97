@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Visitor](https://visitor-badge.glitch.me/badge?page_id=aarathybabu97.visitor-badge)](https://github.com/aarathybabu97) 
+
 
 
 I'm a Master of Business Analytics Student at Monash University, Melbourne.
