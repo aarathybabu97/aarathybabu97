@@ -18,7 +18,8 @@ I'm a Master of Business Analytics Student at Monash University, Melbourne.
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarathybabu97" alt="GitHub Stats" /> <br/><br/>
-  
+  <b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aarathybabu97" alt="WakaTime" />
   </p>
 </div>
 
