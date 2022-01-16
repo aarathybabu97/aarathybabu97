@@ -11,16 +11,6 @@ I'm a Master of Business Analytics Student at Monash University, Melbourne.
 - ⚡ Fun fact: I am an Electrical and Electronics Engineer as well !
 - Check out my Blog: [https://aarathybabu.netlify.app/](https://aarathybabu.netlify.app/)
 
-<h2>👀 Stats</h2>
-
-<div>
-
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarathybabu97" alt="GitHub Stats" /> <br/><br/>
-  
-  </p>
-</div>
 
 <h2>📫 How to reach me:</h2>
 
