@@ -4,7 +4,7 @@
 
 
 <h2> About Me⚡:</h2>
-I'm a Master of Business Analytics Student at Monash University, Melbourne. 
+I'm an Infectious Disease Modeller at Telethon Kids Institute and a Master of Business Analytics graduate from Monash University, Melbourne. 
 
 - 🔭 I enjoy working on Exploratory Data Analysis, building R Shiny web applications, movies among other things.
 - 😄 Pronouns: She/Her
