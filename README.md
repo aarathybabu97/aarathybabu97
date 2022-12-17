@@ -4,8 +4,9 @@
 
 
 <h2> About Me⚡:</h2>
-I'm an Infectious Disease Modeller at Telethon Kids Institute and a Master of Business Analytics graduate from Monash University, Melbourne. 
+I'm a Data Scientist at the UNSW Centre for Big Data Research in Health and a Master of Business Analytics graduate from Monash University, Melbourne. 
 
+- Previously worked as an Infectious Disease Modeller at the amazing Telethon Kids Institute.
 - 🔭 I enjoy working on Exploratory Data Analysis, building R Shiny web applications, movies among other things.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am an Electrical and Electronics Engineer as well !
